@@ -1,0 +1,14 @@
+{
+  "name": "nadfun-alert-bot",
+  "version": "1.0.0",
+  "description": "Nad.fun Telegram New Token Alert Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@nadfun/sdk": "^0.2.4",
+    "dotenv": "^16.4.7",
+    "viem": "^2.21.54"
+  }
+}
